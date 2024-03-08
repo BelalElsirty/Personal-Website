@@ -1,0 +1,135 @@
+.great-vibes-regular {
+    font-family: "Great Vibes", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .navbar {
+    padding: 15px;
+    margin: 0 50px;
+}
+.profile{
+    background-color: #070F2B;
+}
+.gradient-background {
+    background: linear-gradient(300deg, #B5C0D0, #CCD3CA, #F5E8DD,#EED3D9);
+    background-size: 180% 180%;
+    animation: gradient-animation 14s ease infinite;
+  }
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }}
+    .silkscreen-regular {
+        font-family: "Silkscreen", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      .gradient-backgroundME {
+        background: linear-gradient(300deg, #070F2B, #1B1A55, #535C91,#9290C3);
+        background-size: 180% 180%;
+        animation: gradient-animation 14s ease infinite;
+      }
+      @keyframes gradient-animation {
+        0% {
+          background-position: 0% 50%;
+        }
+        50% {
+          background-position: 100% 50%;
+        }
+        100% {
+          background-position: 0% 50%;
+        }}
+        .coding-foto {
+            width: 350px;
+            top: 200px;
+            margin-right: 130%;
+            position: relative; 
+        
+            animation-name: example;
+            animation-duration: 3s;
+            animation-iteration-count: infinite;
+            }
+            @keyframes example {
+                0% {top: 20%;}
+               50% {top: 23%;}
+               100% {top: 20%;}
+            }
+       
+          .press-start {
+            font-family: "Press Start 2P", system-ui;
+            font-weight: 400;
+            font-style: normal;
+            
+          }
+          .profile-img {
+            height: 500px;
+            border-radius: 50%;
+          }
+         .intro p {
+            color: #9290C3;
+            font-size: smaller;
+         }
+         #skills{
+            background: linear-gradient(300deg, #070F2B, #1B1A55, #535C91,#9290C3);
+            background-size: 180% 180%;
+            animation: gradient-animation 14s ease infinite;
+          }
+          @keyframes gradient-animation {
+            0% {
+              background-position: 0% 50%;
+            }
+            50% {
+              background-position: 100% 50%;
+            }
+            100% {
+              background-position: 0% 50%;
+            }}
+             
+            #skills h2 {
+                color: #000; /* Change to your desired text color */
+            }
+            #skills h4 {
+                color: #000; /* Change to your desired text color */
+            }
+            #skills p {
+                color: #9290C3; /* Change to your desired text color */
+            }
+            #skills h5 {
+                color: #9290C3; /* Change to your desired text color */
+            }
+            #projects-section{
+                background: linear-gradient(300deg, #070F2B, #1B1A55, #535C91,#9290C3);
+                background-size: 180% 180%;
+                animation: gradient-animation 14s ease infinite;
+              }
+              @keyframes gradient-animation {
+                0% {
+                  background-position: 0% 50%;
+                }
+                50% {
+                  background-position: 100% 50%;
+                }
+                100% {
+                  background-position: 0% 50%;
+                }}
+                .bottom-container {
+                    height: 25vh;
+                    background-color: #d7fbff;
+                    text-align: center;
+                    line-height: 3;
+                    
+                }
+                
+                .icons {
+                    width: 24px;
+                    margin: 45px 20px 0 20px;
+                }
+                .bottom-container footer{
+                    color:#9290C3
+                }
